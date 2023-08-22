@@ -1,0 +1,6 @@
+Bundle-Name: Site Initializer M7K4
+Bundle-SymbolicName: com.acme.site.initializer.m7k4
+Bundle-Version: 1.0.0
+Liferay-Site-Initializer-Name: M7K4
+Provide-Capability: liferay.site.initializer
+Web-ContextPath: /site-initializer-m7k4
